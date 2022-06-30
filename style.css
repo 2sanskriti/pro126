@@ -1,0 +1,39 @@
+.heading
+{
+    width: 100%;
+    font-size: 23px;
+    margin: 0px;
+}
+
+.note
+{
+    font-size: 14px;
+    color: brown;
+}
+
+button
+{
+    font-size: 23px;
+    width: 130px;
+    text-decoration-color: black;
+    margin-bottom: 100;
+}
+
+
+body
+{
+    background-size: cover;
+}
+
+canvas
+{
+   border: 5px solid grey;  
+   border-radius: 20px;
+}
+
+#song
+{
+    font-size:15px;
+     margin-bottom: 57%;
+
+}
